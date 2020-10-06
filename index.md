@@ -1,6 +1,6 @@
 
 ## Test link
-[click here](https://github.com/FelixSchiefer/Tutorial-Test/tree/gh-pages)
+[click here](https://felixschiefer.github.io/Tutorial-Test/)
 
 
 ## Welcome to GitHub Pages
