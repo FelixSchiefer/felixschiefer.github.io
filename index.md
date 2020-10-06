@@ -2,6 +2,9 @@
 ## Test link
 [click here](https://felixschiefer.github.io/Tutorial-Test/)
 
+## TreeSeg
+[Tree species classification](https://felixschiefer.github.io/TreeSeg/) from drone imagery using U-net CNN.
+
 
 ## Welcome to GitHub Pages
 
