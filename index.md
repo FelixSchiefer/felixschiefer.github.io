@@ -1,6 +1,6 @@
 
 ## Test link
-[click here] (https://github.com/FelixSchiefer/Tut_CNN)
+[click here](https://github.com/FelixSchiefer/Tut_CNN)
 
 
 ## Welcome to GitHub Pages
